@@ -17,6 +17,7 @@ Hello! My name is Sameer Islam and I am currently an underclassman at the Univer
 
 ### Contact Me:
 [<img alt = "Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:islamsameer91@gmail.com)
+[<img alt = "Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/sameer-islam-743b52210)
 [<img alt = "Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](https://discordapp.com/users/269835494844530688)
 
 ### Listen Along:
