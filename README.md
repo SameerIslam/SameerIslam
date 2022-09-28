@@ -22,3 +22,6 @@ Hello! My name is Sameer Islam and I am currently an underclassman at the Univer
 
 ### Listen Along:
 [<img alt = "Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">](https://open.spotify.com/user/oemk8yho4f60fx9qpgsy5ssy7?si=3fd7c1a98b5448a1)
+
+### Here is my Holopin Board:
+[![@sameeri_'s Holopin board](https://holopin.io/api/user/board?user=sameeri_)](https://holopin.io/@sameeri_)
